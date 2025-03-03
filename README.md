@@ -41,8 +41,8 @@ Select the +Add-in field to open the Add-in Manager.
 
 In the Add-in Manager, go to the Applications tab (if not already selected).
 
-Search for eBolts in the list of applications.
+Search for eStairs in the list of applications.
 
-Once eBolts is listed, the add-in is now ready for use!
+Once eStairs is listed, the add-in is now ready for use!
 
 ## Enjoy working with the eStairs Add-In!
